@@ -1,0 +1,8 @@
+SampleCode.R: includes R code for generating simulated data and implementing the proposed and competing approaches.
+
+DataAnalysis.R: includes R code for the data analysis in the main article (analyses based on models without interactions).
+
+DataAnalysis_Interactions.R: includes R code for the data analysis in the appendix (analyses based on models with interactions).
+
+rott2.dta: This is the dataset used for the data analysis and was published in “Flexible parametric survival analysis using Stata: beyond the Cox model” (Roystone and Lambert, 2011). We used the dataset in the AF package (https://search.r-project.org/CRAN/refmans/AF/html/rott2.html).
+
